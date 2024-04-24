@@ -4,7 +4,7 @@ This assistant helps you to find out if you or someone you care about may be exp
 ## Features ✨
 
 - **Quick Analysis**: Input text and get instant feedback on potential depression indicators.
-- **User-Friendly Interface**: Intuitive design for seamless user experience.
+- **User-Friendly Interface**: Simplistic design for seamless user experience.
 - **State-of-the-Art Technology**: Powered by advanced machine learning models for accurate predictions.
 
 ## How it Works 🧠
@@ -19,7 +19,7 @@ This assistant helps you to find out if you or someone you care about may be exp
 -->
 ## Technologies Used 🛠️
 
-- **Python**: Backend development and machine learning model implementation.
+- **Python**: Machine learning model implementation.
 - **Flask**: Web framework for building the application.
 - **PyTorch**: Deep learning library for training and deploying machine learning models.
 - **Transformers**: Library for natural language processing tasks.
@@ -64,10 +64,10 @@ To run the Depression Detection Web App locally, follow these steps:
 
 We welcome your feedback! If you have any suggestions, ideas, or issues, please [open an issue](https://github.com/your-username/depression-detection-web-app/issues) or [create a pull request](https://github.com/your-username/depression-detection-web-app/pulls).
 
-## License ⚖️📄
+## License ⚖️
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Feel free to star ⭐️ this repository if you found it helpful! Thank you for using the Depression Detection Web App! 🌟
+Feel free to star ⭐️ this repository if you found it helpful! Thank you! 🌟
