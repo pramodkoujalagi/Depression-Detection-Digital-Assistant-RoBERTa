@@ -1,5 +1,5 @@
 # Depression Detection Digital Assistant  👩‍⚕️
-This assistant helps you to find out if you or someone you care about may be experiencing depression. This application utilizes a fine-tuned RoBERTa model for sentiment analysis to predict whether a person's input text suggests signs of depression and classifies whether the person is depressed or not.
+This assistant helps you to find out if you or someone you care about may be experiencing depression. This application utilizes a Hugging Face's fine-tuned RoBERTa model for sentiment analysis to predict whether a person's input text suggests signs of depression and classifies whether the person is depressed or not.
 
 ## Features ✨
 
