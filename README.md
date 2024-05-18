@@ -5,7 +5,7 @@ This assistant helps you to find out if you or someone you care about may be exp
 
 - **Quick Analysis**: Input text and get instant feedback on potential depression indicators.
 - **User-Friendly Interface**: Simplistic design for seamless user experience.
-- **State-of-the-Art Technology**: Powered by advanced machine learning models for accurate predictions.
+- **State-of-the-Art Technology**: Powered by advanced Hugging Face's fine-tuned RoBERTa model for accurate predictions.
 
 ## How it Works 🧠
 
