@@ -67,7 +67,3 @@ We welcome your feedback! If you have any suggestions, ideas, or issues, please 
 ## License ⚖️
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to star ⭐️ this repository if you found it helpful! Thank you! 🌟
